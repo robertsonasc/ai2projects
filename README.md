@@ -1,8 +1,10 @@
 # My App Inventor Projects
-Seguem aqui os aplicativos feitos por mim (apenas para fins de prática) com a plataforma App Inventor.
+Here are the apps that I made (for practice purposes only) with blocks programming in **App Inventor** platform.
 
 ## Initial Calculator
-É uma calculadora simples, onde sempre terá apenas dois operandos e um operador. Porém não tão simples, ela funciona para realizar pelo menos a maioria das operações matemáticas do cotidiano de um usuário comum.
+It is a simple calculator, where it will always have only two operands and one operator. But not so simple, it works to perform at least most of the mathematical operations of a common user's daily life. <br/>
+
+[See the blocks programming](https://github.com/robertsonasc/ai2projects/blob/master/Initial_Calculator/blocks.png)
 
 #### Scrennshots:
 ![](https://github.com/robertsonasc/ai2projects/blob/master/Initial_Calculator/screenshots/1.jpg?raw=true)
